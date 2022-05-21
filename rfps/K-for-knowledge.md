@@ -1,4 +1,4 @@
-# K for Knowledge
+# K for Knowledge: Cryptocurrency backed knowledge testing system
 
 * **Status:** Open
 * **Proposer:** @Bingonemo123, @temsk
@@ -12,6 +12,7 @@ Please describe exactly why you are proposing this RFP. Make sure to point out w
 ## Deliverables :nut_and_bolt:
 
 Please list the deliverables of the project in as much detail as possible. Please also estimate the amount of work required and try to divide the project into meaningful milestones.
+
 
 * **Total Estimated Duration:** Duration of the whole project
 * **Full-time equivalent (FTE):**  Amount of time (in days) required for a single person to complete this project ([see](https://en.wikipedia.org/wiki/Full-time_equivalent)) 
